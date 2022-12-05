@@ -1,7 +1,7 @@
 # Vaccine-Administration
 Final project of Introduction to programming (made on 2021)
 
-Code made by: Nathaly Ingol
+Code made by: Nathaly Ingol || 
 Big-O analysis by: Milagros Corbera
 
 
