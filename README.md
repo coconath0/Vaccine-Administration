@@ -17,7 +17,7 @@ So to be able to see how the main function will work, we'll go with option 10 an
 
 The options displayed are the following (translated into English):
 "
-1) Enter the application of a vaccine
+1) Enter the application of a vaccine (In this option the program will tell us if the vaccine is registered)
 2) Search by code
 3) Sort the list by cost of importation
 4) Search for a vaccine application regarding the number of batches
