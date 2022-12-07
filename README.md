@@ -1,5 +1,5 @@
 # Vaccine-Administration
-Final project of Introduction to programming (made on 2021)
+Made on 2021 || Final project of Introduction to programming 
 
 Code made by: Nathaly Ingol || 
 Big-O analysis by: Milagros Corbera
